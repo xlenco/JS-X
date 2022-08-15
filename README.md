@@ -20,3 +20,7 @@
 ## MainColor
 
 Heo的标准颜色变量扩充包，需要MainColor支持的需要引入`/mainColor/heoMainColor.css`这个文件
+## cdn
+```
+https://fastly.jsdelivr.net/gh/xlenco/JS-X@main/
+```
